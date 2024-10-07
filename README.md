@@ -14,3 +14,5 @@ Seu aplicativo deverá atender as seguintes restrições:
 * O aplicativo deverá ter uma classe específica para configurar a API Rest
   * Essa classe deverá implementar um singleton para retornar sempre a mesma instância de configuração.
 * O aplicativo deverá ter uma classe específica para representar o usuário GitHub
+
+
