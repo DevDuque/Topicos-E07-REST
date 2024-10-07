@@ -38,7 +38,7 @@ dependencies {
     implementation(libs.activity)
     implementation(libs.constraintlayout)
 
-
+    implementation("com.google.code.gson:gson:2.9.0")
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
